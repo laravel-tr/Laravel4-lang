@@ -24,7 +24,7 @@ return array(
 
     "accepted"       => ":attribute kabul edilmelidir.",
     "active_url"     => ":attribute geçerli bir URL olmalıdır.",
-    "after"          => ":attribute şundan daha eski bir tarih olmalıdır :date.",
+    "after"          => ":attribute şundan daha sonraki bir tarih olmalıdır :date.",
     "alpha"          => ":attribute sadece harflerden oluşmalıdır.",
     "alpha_dash"     => ":attribute sadece harfler, rakamlar ve tirelerden oluşmalıdır.",
     "alpha_num"      => ":attribute sadece harfler ve rakamlar içermelidir.",
