@@ -28,6 +28,8 @@ return array(
 
     "token"    => "Şifre sıfırlama bileti geçersiz.",
 
-    "sent"     => "Şifre sıfırlama başarı ile gönderildi!",
+    "sent"     => "Şifre sıfırlama bileti başarı ile gönderildi!",
+    
+    "reset"    => "Şifre sıfırlandı!",
 
 );
